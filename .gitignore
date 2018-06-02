@@ -101,6 +101,6 @@ ENV/
 .mypy_cache/
 
 # ply
-parsertab.py
+parsetab.py
 parser.out
 example.py
