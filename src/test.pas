@@ -1,11 +1,11 @@
 integer x;
-integer yy;
+integer y = (3 + 1) + 1;
 
 x = 2;
-yy = 3;
 
-while (x < 2) do
+if (x > y) then
     begin
-        write(1);
-        x = x + 1;
+        x = 1;
     end;
+
+writeln((x + 4) + 4/4);
